@@ -1,6 +1,4 @@
-# CS263-project
+# File Compressor
 
-  File Compressor
-  Tech stack used : Java, Netbeans
-  
-  This is a file compressor made using huffman coding from scratch.
+- A desktop application which compress file using **Huffman Coding**.
+- Tech stack : Java, Netbeans
